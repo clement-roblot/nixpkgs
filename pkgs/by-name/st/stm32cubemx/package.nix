@@ -24,6 +24,7 @@ let
       stripRoot = false;
     };
 
+
     nativeBuildInputs = [
       fdupes
       icoutils
